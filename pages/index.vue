@@ -62,7 +62,6 @@ export default {
   data() {
     return {
       toggle: false,
-      selectedVideo: true,
       video: '/videos/video_gallery/video.mp4',
     }
   },

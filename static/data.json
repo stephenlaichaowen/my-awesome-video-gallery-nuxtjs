@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "/images/video_gallery/pic2.png",
+    "videoSrc": "/videos/video_gallery/video_2.mp4",
+    "description": "1. How to add multiple videos in a webstie or to make a video gallery"
+  },
+  {
+    "id": 2,
+    "imgSrc": "/images/video_gallery/pic3.png",
+    "videoSrc": "/videos/video_gallery/video_3.mp4",
+    "description": "2. How to add multiple videos in a webstie or to make a video gallery"
+  },
+  {
+    "id": 3,
+    "imgSrc": "/images/video_gallery/pic4.png",
+    "videoSrc": "/videos/video_gallery/video_4.mp4",
+    "description": "3. How to add multiple videos in a webstie or to make a video gallery"
+  }
+]

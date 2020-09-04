@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageLoader />
+    <!-- <PageLoader /> -->
     <nuxt />
   </div>
 </template>
